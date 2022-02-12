@@ -1,4 +1,8 @@
-### Hi there 👋
+###👋 Hi!
+
+I'm a student of Informatics Engineering Hasanuddin University
+
+
 
 <!--
 **brillianita/Brillianita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
