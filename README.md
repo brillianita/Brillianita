@@ -1,4 +1,4 @@
-###👋 Hi!
+### Hi! 👋
 
 I'm a student of Informatics Engineering Hasanuddin University
 
